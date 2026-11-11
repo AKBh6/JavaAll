@@ -28,14 +28,6 @@ graph TD
 ```
 ## Tools & Technologies
 
-# ☕ JavaALL
-
-> All my Java practice — Week 1 to Week 5, in one repo.
-
----
-
-### 🛠️ Tech Stack
-
 | Tool | Details |
 | :--- | :--- |
 | **Language:** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) |
