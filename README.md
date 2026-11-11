@@ -1,5 +1,6 @@
-# JavaALL
+# JavaALL 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 A personal repository documenting my journey of learning and programming in Java.
 
 This repository contains weekly practice programs, coding exercises, experiments, and implementations of various Java concepts.
