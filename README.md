@@ -6,7 +6,7 @@ A personal repository documenting my journey of learning and programming in Java
 This repository contains weekly practice programs, coding exercises, experiments, and implementations of various Java concepts.
 
 ## Repository Structure
-
+```mermaid
 graph TD
     A["JavaALL/"] --> B["src/"]
     A --> C[".gitignore"]
@@ -25,7 +25,7 @@ graph TD
     style W3 fill:#e1f5fe, stroke:#4a90e2
     style W4 fill:#e1f5fe, stroke:#4a90e2
     style W5 fill:#e1f5fe, stroke:#4a90e2
-
+```
 ## Tools & Technologies
 
 - **Language:** Java
