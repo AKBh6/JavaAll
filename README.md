@@ -19,7 +19,7 @@ JavaALL/
 └── README.md
 ```
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **Language:** Java
 - **IDE:** IntelliJ IDEA
@@ -40,5 +40,3 @@ Programs are written, tested, and updated as I progress through the topics.
 - Improvements and corrections are part of the learning process.
 
 ---
-
-*One week, one concept, one program at a time.*
