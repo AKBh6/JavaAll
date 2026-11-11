@@ -7,17 +7,24 @@ This repository contains weekly practice programs, coding exercises, experiments
 
 ## Repository Structure
 
-```text
-JavaALL/
-├── src/
-│   ├── Week_1/
-│   ├── Week_2/
-│   ├── Week_3/
-│   ├── Week_4/
-│   └── Week_5/
-├── .gitignore
-└── README.md
-```
+graph TD
+    A["JavaALL/"] --> B["src/"]
+    A --> C[".gitignore"]
+    A --> D["README.md"]
+
+    B --> W1["Week_1/"]
+    B --> W2["Week_2/"]
+    B --> W3["Week_3/"]
+    B --> W4["Week_4/"]
+    B --> W5["Week_5/"]
+
+    style A fill:#f9a826, stroke:#333, stroke-width:2px, color:#000
+    style B fill:#4a90e2, stroke:#333, stroke-width:1px, color:#fff
+    style W1 fill:#e1f5fe, stroke:#4a90e2
+    style W2 fill:#e1f5fe, stroke:#4a90e2
+    style W3 fill:#e1f5fe, stroke:#4a90e2
+    style W4 fill:#e1f5fe, stroke:#4a90e2
+    style W5 fill:#e1f5fe, stroke:#4a90e2
 
 ## Tools & Technologies
 
